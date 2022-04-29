@@ -56,4 +56,7 @@ Please make sure to read the [Contributing Guide](https://github.com/vuejs/vuex/
 
 [MIT](http://opensource.org/licenses/MIT)
 
+## practice for vuex modules
+please read the code of path: 'examples/classic/shopping-cart/index.html' under the root path
+
 Copyright (c) 2015-present Evan You
